@@ -1,5 +1,5 @@
 function _1(md){return(
-md`# Scope Feature Requests - 239 Entries`
+md`# Scope Feature Requests - 240 Entries`
 )}
 
 function _chart(d3,data)
@@ -281,7 +281,7 @@ function _data(){return(
         { name: "Better streaming experience", value: 8 },
         { name: "Vim keybindings", value: 7 },
         { name: "Picture-in-picture mode", value: 4 },
-        { name: "Improved GIF picker", value: 5 },
+        { name: "Improved GIF picker", value: 6 },
         { name: "Full command palette", value: 6 }
       ]
     }

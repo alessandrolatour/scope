@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# scope
-Feature Request Data
-=======
-# Scope Feature Requests - 239 Entries
+# Scope Feature Requests - 240 Entries
 
-https://observablehq.com/@reticle/scope-feature-requests@36
+https://observablehq.com/@reticle/scope-feature-requests@39
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -18,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@5
-npm install https://api.observablehq.com/d/59b9238142385d25@36.tgz?v=3
+npm install https://api.observablehq.com/d/59b9238142385d25@39.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:
@@ -35,4 +31,3 @@ const runtime = new Runtime();
 const main = runtime.module(define);
 main.value("foo").then(value => console.log(value));
 ~~~
->>>>>>> f089e29 (Initial Data Set)
