@@ -1,6 +1,6 @@
-# Scope Feature Requests - 240 Entries
+# Scope Feature Requests
 
-https://observablehq.com/@reticle/scope-feature-requests@39
+https://observablehq.com/@reticle/scope-feature-requests@45
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@5
-npm install https://api.observablehq.com/d/59b9238142385d25@39.tgz?v=3
+npm install https://api.observablehq.com/d/59b9238142385d25@45.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:

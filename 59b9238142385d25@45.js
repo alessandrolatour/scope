@@ -1,5 +1,5 @@
 function _1(md){return(
-md`# Scope Feature Requests - 240 Entries`
+md`# Scope Feature Requests`
 )}
 
 function _chart(d3,data)
@@ -184,18 +184,17 @@ function _data(){return(
       name: "Performance",
       children: [
         { name: "No lag", value: 5 },
-        { name: "High responsiveness while multitasking", value: 4 },
-        { name: "Low CPU and RAM usage", value: 6 },
-        { name: "Faster client and load times", value: 8 },
-        { name: "Optimized resource usage", value: 5 },
-        { name: "Smooth navigation", value: 4 },
-        { name: "Speed and stability", value: 10 },
-        { name: "Faster Discord experience", value: 12 },
+        { name: "High responsiveness while multitasking", value: 6 },
+        { name: "Low CPU and RAM usage", value: 8 },
+        { name: "Faster client and load times", value: 10 },
+        { name: "Optimized resource usage", value: 7 },
         { name: "Lightweight client", value: 8 },
         { name: "Quick start-up times", value: 6 },
         { name: "Reduced bloat", value: 5 },
-        { name: "No Electron", value: 4 },
-        { name: "Lower resource consumption", value: 7 }
+        { name: "No Electron", value: 5 },
+        { name: "Lower resource consumption", value: 6 },
+        { name: "Better performance", value: 8 },
+        { name: "Speed and stability", value: 10 }
       ]
     },
     {
@@ -204,22 +203,24 @@ function _data(){return(
         {
           name: "Themes and Styling",
           children: [
-            { name: "Customizable themes", value: 10 },
-            { name: "Flexible layouts", value: 7 },
-            { name: "Better theme engine", value: 6 },
-            { name: "Custom backgrounds", value: 4 },
-            { name: "Glass theme", value: 5 },
-            { name: "Full UI customization", value: 8 }
+            { name: "Customizable themes", value: 12 },
+            { name: "Flexible layouts", value: 8 },
+            { name: "Better theme engine", value: 9 },
+            { name: "Custom backgrounds", value: 6 },
+            { name: "Glass theme", value: 7 },
+            { name: "Full UI customization", value: 9 },
+            { name: "Theme maker", value: 5 }
           ]
         },
         {
           name: "Extensions",
           children: [
             { name: "Plugin support", value: 15 },
-            { name: "Custom extensions", value: 8 },
-            { name: "Custom scripts and add-ons", value: 5 },
-            { name: "Plugin/theme integration", value: 6 },
-            { name: "Advanced plugin system", value: 7 }
+            { name: "Custom extensions", value: 10 },
+            { name: "Custom scripts and add-ons", value: 6 },
+            { name: "Plugin/theme integration", value: 7 },
+            { name: "Advanced plugin system", value: 8 },
+            { name: "Custom CSS support", value: 7 }
           ]
         }
       ]
@@ -227,62 +228,72 @@ function _data(){return(
     {
       name: "Productivity and Multitasking",
       children: [
-        { name: "Multi-tab view", value: 12 },
-        { name: "Split screen and multi-channel view", value: 10 },
-        { name: "Pinned messages and DMs", value: 6 },
-        { name: "Streamlined project management features", value: 4 },
-        { name: "Quick server switching", value: 5 },
-        { name: "Multiple column views", value: 8 },
-        { name: "Custom notification filters", value: 9 },
-        { name: "Better multitasking support", value: 7 },
-        { name: "Channel tagging and filtering", value: 5 },
-        { name: "Improved search and navigation", value: 6 }
+        { name: "Multi-tab view", value: 14 },
+        { name: "Split screen and multi-channel view", value: 12 },
+        { name: "Pinned messages and DMs", value: 8 },
+        { name: "Streamlined project management features", value: 5 },
+        { name: "Quick server switching", value: 6 },
+        { name: "Multiple column views", value: 9 },
+        { name: "Channel tagging and filtering", value: 7 },
+        { name: "Improved search and navigation", value: 6 },
+        { name: "Custom notification filters", value: 7 },
+        { name: "Advanced task management", value: 6 },
+        { name: "Picture-in-picture mode", value: 5 },
+        { name: "Full command palette", value: 6 },
+        { name: "Message bookmarking", value: 6 }
       ]
     },
     {
       name: "Accessibility",
       children: [
-        { name: "Better search optimization", value: 6 },
-        { name: "Custom notification filters", value: 5 },
-        { name: "Keyboard shortcuts and hotkeys", value: 10 },
-        { name: "Improved layout for faster navigation", value: 7 },
-        { name: "Multi-account support", value: 4 },
-        { name: "Better organization of DMs and servers", value: 6 }
+        { name: "Better search optimization", value: 7 },
+        { name: "Keyboard shortcuts and hotkeys", value: 12 },
+        { name: "Improved layout for faster navigation", value: 8 },
+        { name: "Multi-account support", value: 6 },
+        { name: "Better organization of DMs and servers", value: 7 },
+        { name: "Custom notification sounds", value: 5 },
+        { name: "Alerts for specific keywords or people", value: 6 },
+        { name: "Vim keybindings", value: 7 },
+        { name: "Enhanced tools for managing workflows", value: 5 }
       ]
     },
     {
       name: "Linux and Wayland Support",
       children: [
-        { name: "Wayland screensharing with audio", value: 4 },
-        { name: "General Linux support", value: 6 },
-        { name: "Better streaming for Linux", value: 5 },
-        { name: "Optimized Linux client", value: 4 },
-        { name: "Full Wayland support", value: 5 }
+        { name: "Wayland screensharing with audio", value: 6 },
+        { name: "General Linux support", value: 8 },
+        { name: "Better streaming for Linux", value: 6 },
+        { name: "Optimized Linux client", value: 5 },
+        { name: "Full Wayland support", value: 7 },
+        { name: "Good streaming support for Linux", value: 5 },
+        { name: "Supporting screencasting video/audio for Wayland", value: 6 }
       ]
     },
     {
       name: "UI Improvements",
       children: [
-        { name: "Sleek and lightweight interface", value: 8 },
-        { name: "Compact UI with fewer distractions", value: 7 },
-        { name: "Better DMs and organization", value: 5 },
-        { name: "Folders and nested categories", value: 6 },
-        { name: "Streamlined browsing experience", value: 7 },
-        { name: "Improved message management", value: 5 },
-        { name: "Tabs for quick navigation", value: 6 },
-        { name: "Better notification clarity", value: 4 }
+        { name: "Sleek and lightweight interface", value: 9 },
+        { name: "Compact UI with fewer distractions", value: 8 },
+        { name: "Folders and nested categories", value: 7 },
+        { name: "Streamlined browsing experience", value: 8 },
+        { name: "Improved message management", value: 6 },
+        { name: "Tabs for quick navigation", value: 7 },
+        { name: "Better notification clarity", value: 5 },
+        { name: "Beautiful UI", value: 6 },
+        { name: "Better window management", value: 5 },
+        { name: "Improved GIF picker", value: 6 },
+        { name: "Glass theme", value: 5 }
       ]
     },
     {
-      name: "Other Features",
+      name: "Messaging Features",
       children: [
-        { name: "Message bookmarking", value: 5 },
-        { name: "Advanced task management", value: 6 },
-        { name: "Better streaming experience", value: 8 },
-        { name: "Vim keybindings", value: 7 },
-        { name: "Picture-in-picture mode", value: 4 },
-        { name: "Improved GIF picker", value: 6 },
-        { name: "Full command palette", value: 6 }
+        { name: "Improved Direct Messages", value: 7 },
+        { name: "Better DMs organization", value: 8 },
+        { name: "Ability to pin chats", value: 6 },
+        { name: "Pinned DMs and split views", value: 7 },
+        { name: "Custom tags for quick messages", value: 5 },
+        { name: "Advanced shortcuts for chat navigation", value: 6 }
       ]
     }
   ]
