@@ -185,7 +185,7 @@ function _data(){return(
       children: [
         { name: "No lag", value: 5 },
         { name: "High responsiveness while multitasking", value: 6 },
-        { name: "Low CPU and RAM usage", value: 8 },
+        { name: "Low CPU and RAM usage", value: 9 },
         { name: "Faster client and load times", value: 10 },
         { name: "Optimized resource usage", value: 7 },
         { name: "Lightweight client", value: 8 },
@@ -248,7 +248,7 @@ function _data(){return(
       children: [
         { name: "Better search optimization", value: 7 },
         { name: "Keyboard shortcuts and hotkeys", value: 12 },
-        { name: "Improved layout for faster navigation", value: 8 },
+        { name: "Improved layout for faster navigation", value: 9 },
         { name: "Multi-account support", value: 6 },
         { name: "Better organization of DMs and servers", value: 7 },
         { name: "Custom notification sounds", value: 5 },
@@ -272,7 +272,7 @@ function _data(){return(
     {
       name: "UI Improvements",
       children: [
-        { name: "Sleek and lightweight interface", value: 9 },
+        { name: "Sleek and lightweight interface", value: 10 },
         { name: "Compact UI with fewer distractions", value: 8 },
         { name: "Folders and nested categories", value: 7 },
         { name: "Streamlined browsing experience", value: 8 },
