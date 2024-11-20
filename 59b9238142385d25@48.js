@@ -183,7 +183,7 @@ function _data(){return(
     {
       name: "Performance",
       children: [
-        { name: "No lag", value: 5 },
+        { name: "No lag", value: 7 },
         { name: "High responsiveness while multitasking", value: 6 },
         { name: "Low CPU and RAM usage", value: 9 },
         { name: "Faster client and load times", value: 10 },
@@ -203,7 +203,7 @@ function _data(){return(
         {
           name: "Themes and Styling",
           children: [
-            { name: "Customizable themes", value: 12 },
+            { name: "Customizable themes", value: 13 },
             { name: "Flexible layouts", value: 8 },
             { name: "Better theme engine", value: 9 },
             { name: "Custom backgrounds", value: 6 },
@@ -293,7 +293,8 @@ function _data(){return(
         { name: "Ability to pin chats", value: 6 },
         { name: "Pinned DMs and split views", value: 7 },
         { name: "Custom tags for quick messages", value: 5 },
-        { name: "Advanced shortcuts for chat navigation", value: 6 }
+        { name: "Advanced shortcuts for chat navigation", value: 6 },
+        { name: "AI summarization", value: 1 }
       ]
     }
   ]
