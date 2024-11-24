@@ -183,12 +183,12 @@ function _data(){return(
     {
       name: "Performance",
       children: [
-        { name: "No lag", value: 7 },
+        { name: "No lag", value: 9 },
         { name: "High responsiveness while multitasking", value: 6 },
         { name: "Low CPU and RAM usage", value: 9 },
         { name: "Faster client and load times", value: 10 },
         { name: "Optimized resource usage", value: 7 },
-        { name: "Lightweight client", value: 8 },
+        { name: "Lightweight client", value: 9 },
         { name: "Quick start-up times", value: 6 },
         { name: "Reduced bloat", value: 5 },
         { name: "No Electron", value: 5 },
@@ -204,7 +204,7 @@ function _data(){return(
           name: "Themes and Styling",
           children: [
             { name: "Customizable themes", value: 13 },
-            { name: "Flexible layouts", value: 8 },
+            { name: "Flexible layouts", value: 10 },
             { name: "Better theme engine", value: 9 },
             { name: "Custom backgrounds", value: 6 },
             { name: "Glass theme", value: 7 },
@@ -253,7 +253,7 @@ function _data(){return(
         { name: "Better organization of DMs and servers", value: 7 },
         { name: "Custom notification sounds", value: 5 },
         { name: "Alerts for specific keywords or people", value: 6 },
-        { name: "Vim keybindings", value: 7 },
+        { name: "Vim keybindings", value: 8 },
         { name: "Enhanced tools for managing workflows", value: 5 }
       ]
     },
@@ -273,11 +273,11 @@ function _data(){return(
       name: "UI Improvements",
       children: [
         { name: "Sleek and lightweight interface", value: 10 },
-        { name: "Compact UI with fewer distractions", value: 8 },
-        { name: "Folders and nested categories", value: 7 },
+        { name: "Compact UI with fewer distractions", value: 9 },
+        { name: "Folders and nested categories", value: 8 },
         { name: "Streamlined browsing experience", value: 8 },
         { name: "Improved message management", value: 6 },
-        { name: "Tabs for quick navigation", value: 7 },
+        { name: "Tabs for quick navigation", value: 8 },
         { name: "Better notification clarity", value: 5 },
         { name: "Beautiful UI", value: 6 },
         { name: "Better window management", value: 5 },
@@ -294,7 +294,7 @@ function _data(){return(
         { name: "Pinned DMs and split views", value: 7 },
         { name: "Custom tags for quick messages", value: 5 },
         { name: "Advanced shortcuts for chat navigation", value: 6 },
-        { name: "AI summarization", value: 1 }
+        { name: "AI summarization", value: 2 }
       ]
     }
   ]
