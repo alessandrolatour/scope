@@ -226,23 +226,18 @@ function _data(){return(
       ]
     },
     {
-      name: "Productivity and Multitasking",
-      children: [
-        { name: "Multi-tab view", value: 14 },
-        { name: "Split screen and multi-channel view", value: 12 },
-        { name: "Pinned messages and DMs", value: 8 },
-        { name: "Streamlined project management features", value: 5 },
-        { name: "Quick server switching", value: 6 },
-        { name: "Multiple column views", value: 9 },
-        { name: "Channel tagging and filtering", value: 7 },
-        { name: "Improved search and navigation", value: 6 },
-        { name: "Custom notification filters", value: 7 },
-        { name: "Advanced task management", value: 6 },
-        { name: "Picture-in-picture mode", value: 5 },
-        { name: "Full command palette", value: 6 },
-        { name: "Message bookmarking", value: 6 }
-      ]
-    },
+  name: "Productivity and Multitasking",
+  children: [
+    { name: "Multi-tab and multi-channel views", value: 26 },
+    { name: "Pinned messages and DMs", value: 8 },
+    { name: "Streamlined project and server navigation", value: 11 },
+    { name: "Improved search, tagging, and filtering", value: 13 },
+    { name: "Custom notification management", value: 7 },
+    { name: "Advanced tools and task management", value: 12 },
+    { name: "Picture-in-picture mode", value: 5 },
+    { name: "Message bookmarking", value: 6 }
+  ]
+  },
     {
       name: "Accessibility",
       children: [
