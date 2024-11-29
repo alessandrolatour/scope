@@ -185,7 +185,7 @@ function _data(){return(
       children: [
         { name: "No lag", value: 9 },
         { name: "High responsiveness while multitasking", value: 6 },
-        { name: "Low CPU and RAM usage", value: 9 },
+        { name: "Low CPU and RAM usage", value: 12 },
         { name: "Faster client and load times", value: 10 },
         { name: "Optimized resource usage", value: 7 },
         { name: "Lightweight client", value: 9 },
@@ -228,7 +228,7 @@ function _data(){return(
     {
   name: "Productivity and Multitasking",
   children: [
-    { name: "Multi-tab and multi-channel views", value: 26 },
+    { name: "Multi-tab and multi-channel views", value: 27 },
     { name: "Pinned messages and DMs", value: 8 },
     { name: "Streamlined project and server navigation", value: 11 },
     { name: "Improved search, tagging, and filtering", value: 13 },
@@ -267,10 +267,11 @@ function _data(){return(
     {
       name: "UI Improvements",
       children: [
-        { name: "Sleek and lightweight interface", value: 10 },
+        { name: "Sleek and lightweight interface", value: 12 },
         { name: "Compact UI with fewer distractions", value: 9 },
         { name: "Folders and nested categories", value: 8 },
         { name: "Streamlined browsing experience", value: 8 },
+        { name: "Stream multiple screens", value: 1 },
         { name: "Improved message management", value: 6 },
         { name: "Tabs for quick navigation", value: 8 },
         { name: "Better notification clarity", value: 5 },
@@ -286,7 +287,7 @@ function _data(){return(
         { name: "Improved Direct Messages", value: 7 },
         { name: "Better DMs organization", value: 8 },
         { name: "Ability to pin chats", value: 6 },
-        { name: "Pinned DMs and split views", value: 7 },
+        { name: "Pinned DMs and split views", value: 9 },
         { name: "Custom tags for quick messages", value: 5 },
         { name: "Advanced shortcuts for chat navigation", value: 6 },
         { name: "AI summarization", value: 2 }
